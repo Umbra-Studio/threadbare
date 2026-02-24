@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dqqq822wn8tqs"
+path="res://.godot/imported/umbra_studio_combat.dialogue-0f93c3fa0bce5a14788e6f3b5bc987d7.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/umbra_studio/2_combat/combat_components/umbra_studio_combat.dialogue"
+dest_files=["res://.godot/imported/umbra_studio_combat.dialogue-0f93c3fa0bce5a14788e6f3b5bc987d7.tres"]
+
+[params]
+
+defaults=true

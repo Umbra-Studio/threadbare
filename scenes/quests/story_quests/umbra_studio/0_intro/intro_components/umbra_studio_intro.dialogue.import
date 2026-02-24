@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://i7345nb1rt7y"
+path="res://.godot/imported/umbra_studio_intro.dialogue-d04bc58c47f24b98871856449f075a5e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/umbra_studio/0_intro/intro_components/umbra_studio_intro.dialogue"
+dest_files=["res://.godot/imported/umbra_studio_intro.dialogue-d04bc58c47f24b98871856449f075a5e.tres"]
+
+[params]
+
+defaults=true

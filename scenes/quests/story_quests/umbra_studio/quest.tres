@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Quest" format=3 uid="uid://dyw8ahhwnk1hr"]
+
+[ext_resource type="Script" uid="uid://dts1hwdy3phin" path="res://scenes/menus/storybook/components/quest.gd" id="1_1wryc"]
+
+[resource]
+script = ExtResource("1_1wryc")
+title = "Umbra Studio"
+first_scene = "uid://cnylfbuyhw5ar"
+metadata/_custom_type_script = "uid://dts1hwdy3phin"
