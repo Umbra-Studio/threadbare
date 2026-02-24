@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dgqsownejx12t"
+path="res://.godot/imported/umbra_studio_sequence_puzzle.dialogue-7f40847930195334ac3e55d00e8df466.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/umbra_studio/3_sequence_puzzle/umbra_studio_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/umbra_studio_sequence_puzzle.dialogue-7f40847930195334ac3e55d00e8df466.tres"]
+
+[params]
+
+defaults=true

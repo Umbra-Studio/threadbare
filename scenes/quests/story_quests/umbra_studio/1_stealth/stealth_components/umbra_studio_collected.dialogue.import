@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bkcrub8680sb5"
+path="res://.godot/imported/umbra_studio_collected.dialogue-b9d7b091bf1b06cfa775bacd71725f89.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/umbra_studio/1_stealth/stealth_components/umbra_studio_collected.dialogue"
+dest_files=["res://.godot/imported/umbra_studio_collected.dialogue-b9d7b091bf1b06cfa775bacd71725f89.tres"]
+
+[params]
+
+defaults=true

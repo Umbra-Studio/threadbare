@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://urhu1rwgxbv"
+path="res://.godot/imported/umbra_studio_checkpoint.dialogue-eaba234a9ef65b3b9a9bfd49178d2ca1.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/umbra_studio/1_stealth/stealth_components/umbra_studio_checkpoint.dialogue"
+dest_files=["res://.godot/imported/umbra_studio_checkpoint.dialogue-eaba234a9ef65b3b9a9bfd49178d2ca1.tres"]
+
+[params]
+
+defaults=true
